@@ -1,1 +1,1 @@
-The project implements the FedElim Algorithm for global and local best arms identification in a federated bandit setup using exponentially sparse communication and compares the communication cost and total arm pulls with periodic communication case.
+The project implements the FedElim Algorithm for global and local best arms identification in a federated bandit setup using exponentially sparse communication and compares the communication cost and total arm pulls with periodic communication case. The simulation code and presentation files are attached. 
